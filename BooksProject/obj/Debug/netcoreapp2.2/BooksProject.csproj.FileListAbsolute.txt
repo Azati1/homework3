@@ -1,0 +1,14 @@
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\bin\Debug\netcoreapp2.2\BooksProject.deps.json
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\bin\Debug\netcoreapp2.2\BooksProject.runtimeconfig.json
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\bin\Debug\netcoreapp2.2\BooksProject.runtimeconfig.dev.json
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\bin\Debug\netcoreapp2.2\BooksProject.dll
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\bin\Debug\netcoreapp2.2\BooksProject.pdb
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.csprojAssemblyReference.cache
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.csproj.CoreCompileInputs.cache
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.RazorAssemblyInfo.cache
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.RazorAssemblyInfo.cs
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.AssemblyInfoInputs.cache
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.AssemblyInfo.cs
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.RazorTargetAssemblyInfo.cache
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.dll
+C:\Users\azati\RiderProjects\BooksProject\BooksProject\obj\Debug\netcoreapp2.2\BooksProject.pdb
